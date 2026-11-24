@@ -1,0 +1,12 @@
+unit_id,blood_group,rh_factor,component_type,collection_date,expiry_date,volume_ml,status
+U101,O,-,RBC,2026-11-04,2026-11-26,450,dispatched
+U102,O,-,RBC,2026-11-14,2026-12-09,450,dispatched
+U103,A,+,RBC,2026-11-09,2026-11-29,450,dispatched
+U104,A,+,RBC,2026-10-25,2026-11-23,450,discarded
+U105,B,+,Plasma,2026-11-19,2026-12-24,250,dispatched
+U106,AB,+,RBC,2026-11-12,2026-12-02,450,dispatched
+U107,O,+,RBC,2026-11-06,2026-11-27,450,dispatched
+U108,B,-,Platelets,2026-11-22,2026-11-27,200,available
+U109,O,-,RBC,2026-11-24,2026-12-29,450,dispatched
+U110,O,-,RBC,2026-11-24,2026-12-29,450,dispatched
+U111,O,-,RBC,2026-11-24,2026-12-29,450,dispatched

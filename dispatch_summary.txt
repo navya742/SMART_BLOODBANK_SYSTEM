@@ -1,0 +1,15 @@
+====================================================================
+SMART BLOOD BANK ALLOCATION SYSTEM - AUDITABLE DISPATCH SUMMARY
+====================================================================
+Total Requests Processed : 5
+Fully Fulfilled          : 1
+Partially Fulfilled      : 1
+Unfulfilled (Shortfall)  : 3
+Total Units Dispatched   : 3
+--------------------------------------------------------------------
+REQ05 | HOSP_JIPMER  | FULFILLED           | Allocated: 1 | Donors: O-         | Shortfall: 0
+REQ07 | HOSP_AIIMS   | PARTIAL_FULFILLMENT | Allocated: 2 | Donors: O-         | Shortfall: 1
+REQ03 | HOSP_FORTIS  | SHORTFALL           | Allocated: 0 | Donors: NONE       | Shortfall: 2
+REQ06 | HOSP_AIIMS   | SHORTFALL           | Allocated: 0 | Donors: NONE       | Shortfall: 3
+REQ01 | HOSP_AIIMS   | SHORTFALL           | Allocated: 0 | Donors: NONE       | Shortfall: 2
+====================================================================
